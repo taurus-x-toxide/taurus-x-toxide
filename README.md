@@ -1,25 +1,15 @@
-<div align="center">
-<img>
-    <a><img src=https://bit.ly/3cwa8fv></a>
-</p>
 
-
- </a>
-</p>
 <div align="center">
   <p align="center">
-<a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MUHAMMED-HJ?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<img src="https://firebasestorage.googleapis.com/v0/b/photo-to-link.appspot.com/o/596534871?alt=media&token=770768a4-afbf-403d-b33b-aa16b1529fc8" alt="webp" width="180" height="180"/>
 
-
-<div align="center">
-<img>
-    <a><img src=https://firebasestorage.googleapis.com/v0/b/photo-to-link.appspot.com/o/218512327?alt=media&token=e3ccf7f1-8d63-4f80-ad98-bbc5c90d4dad></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/muhammed-usrbot"><img title="MUHAMMED" src="https://img.shields.io/badge/MUHAMMED-H/?color=black&style=for-the-badge&logo=github"></a> <a href="https://github.com/TOXIDE-SER-444"><img title="AKSHAY" src="https://img.shields.io/badge/AKSHAY-H/?color=black&style=for-the-badge&logo=github"></a>
 
-
- </a>
 </p>
-<div align="center">
-  <p align="center">
-<a href="https://github.com/TOXIDE-SER"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AKSHAY-HI?color=blue&style=for-the-badge&logo=whatsapp"></a>
+
+<p align="center">
+<a href="https://github.com/taurus-x-toxide"><img title="TAURUS × TOXIDE" src="https://img.shields.io/badge/TAURUS × TOXIDE-H/?color=black&style=for-the-badge&logo=github"></a>
+
